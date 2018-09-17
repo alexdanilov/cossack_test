@@ -1,4 +1,4 @@
-##Generator
+## Generator
 Run generator `cd generator; go run main.go`
 
 Available flags:
@@ -8,7 +8,7 @@ Available flags:
 Run logger with encrypted messages
 
 
-##Logger
+## Logger
 
 Run logger `cd logger; go run main.go`
 
